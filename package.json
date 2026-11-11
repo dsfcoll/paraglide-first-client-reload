@@ -1,0 +1,13 @@
+{
+  "name": "paraglide-first-client-reload",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "repro": "node repro.mjs"
+  },
+  "devDependencies": {
+    "@inlang/paraglide-js": "3.2.2",
+    "vite": "8.3.7"
+  }
+}
